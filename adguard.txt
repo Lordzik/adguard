@@ -1,3 +1,5 @@
 https://customer.acxiom.com/*
+https://*.okta.com/*
+https://axciom.okta.com/*
 https://*.acxiom.com/*
 https://*.acxiom.com/*
