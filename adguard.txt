@@ -1,0 +1,3 @@
+https://customer.acxiom.com/*
+https://*.acxiom.com/*
+https://*.acxiom.com/*
