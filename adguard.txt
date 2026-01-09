@@ -1,7 +1,10 @@
-https://customer.acxiom.com/*
+@@||customer.acxiom.com^
+@@||okta.com^
+@@||data.pendo.io^
 https://*.okta.com/*
 https://axciom.okta.com/*
 https://*.acxiom.com/*
 https://*.acxiom.com/*
 https://data.pendo.io/*
 https://mobile.events.data.microsoft.com/*
+https://customer.acxiom.com*
