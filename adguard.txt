@@ -3,3 +3,5 @@ https://*.okta.com/*
 https://axciom.okta.com/*
 https://*.acxiom.com/*
 https://*.acxiom.com/*
+https://data.pendo.io/*
+https://mobile.events.data.microsoft.com/*
